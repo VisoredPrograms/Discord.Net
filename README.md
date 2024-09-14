@@ -5,7 +5,7 @@ A lightweight Discord bot developed using Discord.Net, currently focused on basi
 Though it currently has limited functionality, the bot’s architecture is built to support future expansion. With Discord.Net’s robust API, features such as message handling, role management, and event-driven commands can be easily integrated when needed. This minimalist approach ensures a clean, responsive experience while leaving room for future enhancements.
 
 ## Demo
-https://imgur.com/a/jFay10r
+![image](https://github.com/user-attachments/assets/9791635c-3465-4cd0-bf35-122e84ae3605)
 
 ## Badges
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
