@@ -1,0 +1,14 @@
+D:\Source\Repos\DiscordBot\bin\Debug\net8.0\DiscordBot.exe
+D:\Source\Repos\DiscordBot\bin\Debug\net8.0\DiscordBot.deps.json
+D:\Source\Repos\DiscordBot\bin\Debug\net8.0\DiscordBot.runtimeconfig.json
+D:\Source\Repos\DiscordBot\bin\Debug\net8.0\DiscordBot.dll
+D:\Source\Repos\DiscordBot\bin\Debug\net8.0\DiscordBot.pdb
+D:\Source\Repos\DiscordBot\obj\Debug\net8.0\DiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\DiscordBot\obj\Debug\net8.0\DiscordBot.AssemblyInfoInputs.cache
+D:\Source\Repos\DiscordBot\obj\Debug\net8.0\DiscordBot.AssemblyInfo.cs
+D:\Source\Repos\DiscordBot\obj\Debug\net8.0\DiscordBot.csproj.CoreCompileInputs.cache
+D:\Source\Repos\DiscordBot\obj\Debug\net8.0\DiscordBot.dll
+D:\Source\Repos\DiscordBot\obj\Debug\net8.0\refint\DiscordBot.dll
+D:\Source\Repos\DiscordBot\obj\Debug\net8.0\DiscordBot.pdb
+D:\Source\Repos\DiscordBot\obj\Debug\net8.0\DiscordBot.genruntimeconfig.cache
+D:\Source\Repos\DiscordBot\obj\Debug\net8.0\ref\DiscordBot.dll
